@@ -1,5 +1,7 @@
 # Game Boy MNIST CNN — v6
 
+![emulator screenshot](screenshot.png)
+
 A handwritten-digit CNN running natively on a Game Boy (DMG, 4.19 MHz,
 8 KB WRAM, 32 KB ROM). No GBDK — hand-rolled crt0, custom hardware layer,
 hand-tuned sm83 assembly for the FC layer.
