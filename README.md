@@ -3,6 +3,8 @@
 ![emulator screenshot](screenshot.png)
 
 Demo available on itchio: https://kirald.itch.io/gb-mnist-classification
+Download the rom here: https://github.com/LucasMohimontURCA/GameBoy-MNIST/releases/
+Tested with mGBA and EZ Flash JR on a GBA SP.
 
 A handwritten-digit CNN running natively on a Game Boy (DMG, 4.19 MHz,
 8 KB WRAM, 32 KB ROM). No GBDK — hand-rolled crt0, custom hardware layer,
