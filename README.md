@@ -3,6 +3,8 @@
 ![emulator screenshot](screenshot.png)
 
 Demo available on itchio: https://kirald.itch.io/gb-mnist-classification
+
+
 Download the rom here: https://github.com/LucasMohimontURCA/GameBoy-MNIST/releases/
 Tested with mGBA and EZ Flash JR on a GBA SP.
 
